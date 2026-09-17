@@ -25,7 +25,7 @@ Some examples of what you can do with it:
 
 ## Changing the design
 
-You dont need any plugins to run this, but if you want design another frame profile or get the automatic frame BOM you need to install the [EasyProfileFrame plugin](https://github.com/ovo-Tim/EasyProfileFrame). and rerun the Frame design with your own profile sketch. 
+You dont need any plugins to edit the frame, but if you want design another frame profile or get the automatic frame BOM you need to install the [EasyProfileFrame plugin](https://github.com/ovo-Tim/EasyProfileFrame). and rerun the Frame design with your own profile sketch. 
 
 Dimension parameters for the Frame itself:
 
