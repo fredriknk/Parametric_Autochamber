@@ -15,13 +15,13 @@ The most important variables are x,y,height and piston length
 Some examples of what you can do with it:
 
 300x300x300mm 125mm piston:
-![300mm](media/image300-300-300.png)
+![300mm](./media/image300-300-300.png)
 
 600x300x300 250mm piston:
-![alt text](media/image600_300.png)
+![alt text](./media/image600_300.png)
 
 585x585x580mm 250mm
-![585mm](media/image585-585-580.png)
+![585mm](./media/image585-585-580.png)
 
 ## Changing the design
 
