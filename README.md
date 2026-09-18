@@ -11,7 +11,6 @@ The chamber is specified using the centerlines of the inner cube and all compone
 The most important variables are x,y,height and piston length
 
 
-
 Some examples of what you can do with it:
 
 300x300x300mm 125mm piston:
@@ -44,7 +43,7 @@ Parameters for the alu extrusion profile
 |---|---:|---|
 | `frame_corner_height` | 5 mm | The height of the corner brackets |
 | `profile_size` | 20 mm | 2020 profile = 20mm |
-| `profile_size_center` | 8 mm | Thw width of the center hub in the profile |
+| `profile_size_center` | 8 mm | The width of the center hub in the profile |
 
 Automatically calculated parameters:
 
